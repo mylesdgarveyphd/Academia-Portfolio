@@ -1,0 +1,509 @@
+{
+  "data": {
+    "search": {
+      "total": 547,
+      "business": [
+        {
+          "name": "Mercato Tomato Pie",
+          "url": "https://www.yelp.com/biz/mercato-tomato-pie-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "212 Market St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Robert's Pizzeria",
+          "url": "https://www.yelp.com/biz/roberts-pizzeria-newark-3?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "63 New St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Blaze Fast-Fire'd Pizza",
+          "url": "https://www.yelp.com/biz/blaze-fast-fired-pizza-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "691 Broad St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Queen Pizza II",
+          "url": "https://www.yelp.com/biz/queen-pizza-ii-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "48 Commerce St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Gina's Pizzeria",
+          "url": "https://www.yelp.com/biz/ginas-pizzeria-harrison?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "503 Frank E Rodgers Blvd N",
+            "city": "Harrison",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Mulberry Street Pizza",
+          "url": "https://www.yelp.com/biz/mulberry-street-pizza-newark-3?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "258 Mulberry St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Two Brothers Pizza",
+          "url": "https://www.yelp.com/biz/two-brothers-pizza-newark-3?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "16 Clinton St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Napoli Pizza",
+          "url": "https://www.yelp.com/biz/napoli-pizza-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "275 Chestnut St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Golden Pizzeria",
+          "url": "https://www.yelp.com/biz/golden-pizzeria-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "377 S Orange Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 5
+        },
+        {
+          "name": "Ah' Pizz - Harrison",
+          "url": "https://www.yelp.com/biz/ah-pizz-harrison-harrison?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "615 Frank E Rodgers Blvd S",
+            "city": "Harrison",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Big Nick's Pizzeria",
+          "url": "https://www.yelp.com/biz/big-nicks-pizzeria-kearny?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "72 Davis Ave",
+            "city": "Kearny",
+            "state": "NJ"
+          },
+          "rating": 4.5
+        },
+        {
+          "name": "Ramon's Pizza and Wings",
+          "url": "https://www.yelp.com/biz/ramons-pizza-and-wings-east-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "1 Raymond Plaza",
+            "city": "East Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Pizzeria Sao Paulo",
+          "url": "https://www.yelp.com/biz/pizzeria-sao-paulo-newark-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "378 Market St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Brazilian Pizza",
+          "url": "https://www.yelp.com/biz/brazilian-pizza-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "97 Wilson Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Tony's Pizzeria",
+          "url": "https://www.yelp.com/biz/tonys-pizzeria-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "59 Pacific St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Dickie Dee's",
+          "url": "https://www.yelp.com/biz/dickie-dees-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "380 Bloomfield Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Francesca's Pizza & Pasta",
+          "url": "https://www.yelp.com/biz/francescas-pizza-and-pasta-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "62 McWhorter St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Star Tavern",
+          "url": "https://www.yelp.com/biz/star-tavern-orange?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "400 High St",
+            "city": "Orange",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Queen Pizza",
+          "url": "https://www.yelp.com/biz/queen-pizza-newark-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "122 Halsey St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Pizza Village Cafe",
+          "url": "https://www.yelp.com/biz/pizza-village-cafe-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "311 Ferry St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Sabatino's",
+          "url": "https://www.yelp.com/biz/sabatinos-maplewood-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "513 Valley St",
+            "city": "Maplewood",
+            "state": "NJ"
+          },
+          "rating": 5
+        },
+        {
+          "name": "Papa Pat's Pizza",
+          "url": "https://www.yelp.com/biz/papa-pats-pizza-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "263 S Orange Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Uptop Pizzeria",
+          "url": "https://www.yelp.com/biz/uptop-pizzeria-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "Newark Liberty International Airport - 3 Brewster Rd",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Nino's Pizza & Restaurant",
+          "url": "https://www.yelp.com/biz/ninos-pizza-and-restaurant-harrison?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "442 Bergen St",
+            "city": "Harrison",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Pizza Land",
+          "url": "https://www.yelp.com/biz/pizza-land-north-arlington-16?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "260 Belleville Tpke",
+            "city": "North Arlington",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Comet Pizzeria",
+          "url": "https://www.yelp.com/biz/comet-pizzeria-hillside?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "1288 N Broad St",
+            "city": "Hillside",
+            "state": "NJ"
+          },
+          "rating": 4.5
+        },
+        {
+          "name": "Queen Pizza & Deli",
+          "url": "https://www.yelp.com/biz/queen-pizza-and-deli-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "938 Broad St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Frank's Pizzeria",
+          "url": "https://www.yelp.com/biz/franks-pizzeria-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "161 Bloomfield Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Bread of Life Pao da Vida Bakery",
+          "url": "https://www.yelp.com/biz/bread-of-life-pao-da-vida-bakery-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "331 Oliver St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4.5
+        },
+        {
+          "name": "Eli's Pizza Pasta",
+          "url": "https://www.yelp.com/biz/elis-pizza-pasta-elizabeth?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "766 Trumbull St",
+            "city": "Elizabeth",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Gencarelli's Pizzeria & Restaurant",
+          "url": "https://www.yelp.com/biz/gencarellis-pizzeria-and-restaurant-newark-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "501 Bloomfield Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Bivio Panificio",
+          "url": "https://www.yelp.com/biz/bivio-panificio-montclair?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "107 Pine St",
+            "city": "Montclair",
+            "state": "NJ"
+          },
+          "rating": 4.5
+        },
+        {
+          "name": "Pizzalino's",
+          "url": "https://www.yelp.com/biz/pizzalinos-bayonne?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "721 Ave A",
+            "city": "Bayonne",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Pizza Town",
+          "url": "https://www.yelp.com/biz/pizza-town-newark-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "883 Mt Prospect Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Giovanni Pizza Pasta & Grill",
+          "url": "https://www.yelp.com/biz/giovanni-pizza-pasta-and-grill-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "191 Central Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 2.5
+        },
+        {
+          "name": "Urban Bricks Pizza",
+          "url": "https://www.yelp.com/biz/urban-bricks-pizza-kearny?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "190 Passaic Ave",
+            "city": "Kearny",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Pizza 2000",
+          "url": "https://www.yelp.com/biz/pizza-2000-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "19 Court St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 2
+        },
+        {
+          "name": "Vinny's Pizzeria",
+          "url": "https://www.yelp.com/biz/vinnys-pizzeria-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "22 Ferry St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Mama's Pizza",
+          "url": "https://www.yelp.com/biz/mamas-pizza-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "150 Halsey St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3
+        },
+        {
+          "name": "Saffron Kebab & Pizza",
+          "url": "https://www.yelp.com/biz/saffron-kebab-and-pizza-union?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "349 Chestnut St",
+            "city": "Union",
+            "state": "NJ"
+          },
+          "rating": 5
+        },
+        {
+          "name": "Johnny Napkins",
+          "url": "https://www.yelp.com/biz/johnny-napkins-union-3?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "1424 Morris Ave",
+            "city": "Union",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Joe's Restaurant & Pizzeria",
+          "url": "https://www.yelp.com/biz/joes-restaurant-and-pizzeria-kearny?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "853 Kearny Ave",
+            "city": "Kearny",
+            "state": "NJ"
+          },
+          "rating": 5
+        },
+        {
+          "name": "La Pizza",
+          "url": "https://www.yelp.com/biz/la-pizza-harrison?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "240 Harrison Ave",
+            "city": "Harrison",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Jersey Fried Chicken",
+          "url": "https://www.yelp.com/biz/jersey-fried-chicken-newark-2?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "86 Bloomfield Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Mozzarella",
+          "url": "https://www.yelp.com/biz/mozzarella-south-orange?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "396 Valley St",
+            "city": "South Orange",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "La Sicilia",
+          "url": "https://www.yelp.com/biz/la-sicilia-belleville?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "155 Washington Ave",
+            "city": "Belleville",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Andros Diner",
+          "url": "https://www.yelp.com/biz/andros-diner-newark?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "6 Wilson Ave",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 3.5
+        },
+        {
+          "name": "Pizza Hut",
+          "url": "https://www.yelp.com/biz/pizza-hut-newark-11?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "108 Jabez St",
+            "city": "Newark",
+            "state": "NJ"
+          },
+          "rating": 2
+        },
+        {
+          "name": "New York Fried Chicken & Pizza",
+          "url": "https://www.yelp.com/biz/new-york-fried-chicken-and-pizza-elizabeth-3?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "1000 Louisa St",
+            "city": "Elizabeth",
+            "state": "NJ"
+          },
+          "rating": 4
+        },
+        {
+          "name": "Starlite Restaurant & Pizza",
+          "url": "https://www.yelp.com/biz/starlite-restaurant-and-pizza-west-orange?adjust_creative=yu71TTzPRNWvhkXpS1DYaw&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=yu71TTzPRNWvhkXpS1DYaw",
+          "location": {
+            "address1": "993 Pleasant Valley Way",
+            "city": "West Orange",
+            "state": "NJ"
+          },
+          "rating": 3
+        }
+      ]
+    }
+  }
+}
